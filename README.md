@@ -10,7 +10,7 @@ aspects of an application. MVC is one of the most frequently used industry-
 standard web development framework to create scalable and extensible projects.
 ![mvc](https://cloud.githubusercontent.com/assets/23619819/25797835/d88c7732-33ac-11e7-906d-c816cf35b567.JPG)
 
-Now let us take a look at how the execution of an MVC application takes place
+Now let us take a look at how the execution of an MVC application takes place<br>
 when there is a certain request from the client. The following diagram 
 illustrates the flow.
 ![mvc2](https://cloud.githubusercontent.com/assets/23619819/25798287/905aee24-33ae-11e7-81d9-efe15ba7a07a.JPG)
