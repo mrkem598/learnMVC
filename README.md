@@ -9,7 +9,7 @@ controller. Each of these components are built to handle specific development
 aspects of an application. MVC is one of the most frequently used industry-
 standard web development framework to create scalable and extensible projects.
 ![mvc](https://cloud.githubusercontent.com/assets/23619819/25797835/d88c7732-33ac-11e7-906d-c816cf35b567.JPG)
-<br></br>
+
 Now let us take a look at how the execution of an MVC application takes place
 when there is a certain request from the client. The following diagram 
 illustrates the flow.
