@@ -62,3 +62,4 @@ var orm = {
   }
 };
 // Export the orm object for 
+module.exports = orm;
